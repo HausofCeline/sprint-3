@@ -2,7 +2,7 @@
 <html lang="en">
  <head>
      <meta charset="UTF-8">
-        <title>Sprint 3: Personal Site Design</title>
+  <h2>Sprint 3: Personal Site Design</h2>
     <link href="../styles/main.css" rel="stylesheet" type="text/css">
     </head>
   
